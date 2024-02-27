@@ -24,5 +24,11 @@ def clear():
 
 
 
-print('tool is off now')
+print('
+|￣￣￣￣￣￣￣ |  
+|  TOOL IS OFF    |
+|＿＿＿＿＿ _＿_|
+(\__/) || 
+(•ㅅ•) || 
+/ 　 づ)
 
