@@ -21,7 +21,4 @@ def clear():
         os.system(f'clear')
         print(logo)
 
-
-
-
-print('TOOL   IS OFF')
+print('Too is off')
