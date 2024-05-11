@@ -13,7 +13,7 @@ except:
 bit = platform.architecture()[0]
 if bit == '64bit':
     
-        import main
+        import Ron_Issh.py
     
  
 elif bit == '32bit':
