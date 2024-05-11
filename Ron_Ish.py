@@ -13,7 +13,7 @@ except:
 bit = platform.architecture()[0]
 if bit == '64bit':
     
-        import main_enc
+        import main
     
  
 elif bit == '32bit':
