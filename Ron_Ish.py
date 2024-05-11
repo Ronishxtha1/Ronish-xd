@@ -18,5 +18,5 @@ if bit == '64bit':
  
 elif bit == '32bit':
     
-        import Ron_Ish.py
+        import Ron_Issh.py
     
